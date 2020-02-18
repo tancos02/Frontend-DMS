@@ -1,0 +1,51 @@
+.Register {
+    max-width: 24rem;
+    margin-top: 88px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    letter-spacing: 1px;
+    text-align: left;
+}
+  
+.form-label {
+    display: block;
+    margin-bottom: .375rem;
+    margin-top: .375rem;
+    font-size: 0.875rem;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+  
+.form-footer {
+    margin-top: 2rem;
+}
+
+.btn {
+    background-color: #24a0ab;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+  
+.btn-primary {
+    color: white;
+    background-color: #24a0ab;
+    border-color: white;
+}

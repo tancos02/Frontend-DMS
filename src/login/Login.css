@@ -1,0 +1,58 @@
+
+.logincontainer {
+    width: 50%;
+    margin:0 auto;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+button {
+    background-color: #24a0ab;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 6px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.logo {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    max-width: 24rem;
+    margin-top: 40px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.add-on {
+    max-width: 24rem;
+    margin-top: 20px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    margin-bottom: 40px;
+    letter-spacing: 1px; 
+}
